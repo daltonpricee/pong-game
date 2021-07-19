@@ -1,2 +1,2 @@
 # PongGame
-Java Pong game made with Swing.
+Playable pong game made with Java. Control paddles with key moevements.
